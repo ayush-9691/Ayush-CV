@@ -1,0 +1,50 @@
+body{
+    background-image:url(../../image/banner-bg.jpg) ;
+    background-size: cover;
+}
+    h1{
+    color: aliceblue !important;
+    font-weight: 700 !important;
+}
+
+nav{
+    text-align: center;
+}
+
+a{
+    color: aliceblue !important;
+    gap: 40px !important;
+}
+
+a:hover{
+    border-radius:20px;
+    opacity: 10px;
+    background-color: gray;
+}
+
+section{
+    background-image: url(../../image/banner-item-01.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 600px;
+    text-align: center;
+    border-radius: 20px;
+    margin-left:200px;
+}
+
+button{
+    color: aliceblue !important;
+    background-color: blueviolet;
+    text-align: start !important;
+       
+}
+
+h3{
+    color: aliceblue  !important;
+    font-weight: 700 !important;
+    text-align: start !important;
+}
+
+p{
+    color: aliceblue  !important;
+}
